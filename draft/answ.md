@@ -45,7 +45,9 @@ social good, not just a technical preference.
 | **Restrictions** | Proprietary modifications are **not allowed** | Can allow proprietary modifications |
 | **Example License** | GNU General Public License (GPL) | MIT, Apache, BSD |
 
+===============================================================================================================================================
 
+# ETHICAL ESSAY
 
 
 
