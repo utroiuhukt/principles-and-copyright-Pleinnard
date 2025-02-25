@@ -45,9 +45,31 @@ social good, not just a technical preference.
 | **Restrictions** | Proprietary modifications are **not allowed** | Can allow proprietary modifications |
 | **Example License** | GNU General Public License (GPL) | MIT, Apache, BSD |
 
-===============================================================================================================================================
+==================================================================================================================
 
-# ETHICAL ESSAY
+# AI VS COPYRIGHT: A MORAL AND CRITICAL REFLECTION
+
+The ethical dilemma presented in the article revolves around artificial intelligence (A.I.) and copyright, particularly 
+the tension between AI-generated content and intellectual property rights. The core issue is whether AI models, which are 
+trained on vast amounts of copyrighted data, are engaging in fair use or if they infringe upin the rights of original creators. 
+This dilemma raises fundamental questions about ownership, consent, and the value of human creativity in an area where machines 
+can generate comparable works.
+
+The issue is deeply related to the principles of Free Software, which emphasize freedom, transparency, and user rights. The Free 
+Software Movement, spearheaded by Richard Stallman, argues that software should be freely accessible, modifiable, and redistributable. 
+Similarly, the debate in AI and copyright touches upon whether knowledge (in the form of training data) should be openly available for 
+technological progress or if it should be restrincted to protect intellectual property. Transparency, another pillar of Free Software, 
+is also at stake. AI models, particularly proprietary ones, often operate as "black boxes", concealing how they process and generate 
+content. This lack of openness contradicts the ethos of Free Software, which demands that users understand and control the technology 
+they use.
+
+From a philosophical perspective, I argue for a balanced approach that acknowledge both the necessity of innovation and the protection 
+of creators' rights. John Rawls' theory of justice suggests that a fair system should benefit the last advantaged while maintaining equal 
+liberty for all. AI-generated content should not be entirely restricted, as it can lead to technological advancements and broader access 
+to acknowledge. However, creators deserve recognition and compensation for their contributions. A possible middle ground would be transparent 
+licensing models where AI-generated workd must attribute and fairly compensate the original sources. This approach would align with Free Software 
+ideals by promoting openness while ensuring ethical fairness in digital creation.
+
 
 
 
