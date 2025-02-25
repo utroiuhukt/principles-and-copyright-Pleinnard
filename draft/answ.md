@@ -45,7 +45,7 @@ social good, not just a technical preference.
 | **Restrictions** | Proprietary modifications are **not allowed** | Can allow proprietary modifications |
 | **Example License** | GNU General Public License (GPL) | MIT, Apache, BSD |
 
-==================================================================================================================
+============================================================================================
 
 # AI VS COPYRIGHT: A MORAL AND CRITICAL REFLECTION
 
