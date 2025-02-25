@@ -1,5 +1,5 @@
 # QUESTIONS ABOUT THE FREE SOFTWARE FOUNDATION
-==============================================
+
 
 ## 1) What are the "Four Freedoms" defined by the Free Software Foundation? 
 A: The "Four Freedoms" ensure that the users have full control over the software they use.
